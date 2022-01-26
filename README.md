@@ -1,2 +1,2 @@
 # android-app-practice
-Developing my first Android app with Kotlin
+Creating my first Android App with Kotlin
